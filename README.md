@@ -81,4 +81,8 @@ cd ~/containers/shairport-sync
 sudo ./run.sh
 ```
 
+## view logs
+```
+sudo podman logs -f shairport-sync
+```
 
